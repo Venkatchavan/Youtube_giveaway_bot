@@ -1,0 +1,4 @@
+timestamp_iso,youtube_video_id,mode,username,message_count,first_seen,keyword_used,blacklisted,eligible,selected_as_winner,draw_order
+2025-09-07T01:49:11.023450,,unknown,User1,3,2025-09-07T01:49:11.020458,False,False,True,True,1
+2025-09-07T01:49:11.023450,,unknown,User2,1,2025-09-07T01:49:11.020458,False,False,False,False,
+2025-09-07T01:49:11.023450,,unknown,User3,2,2025-09-07T01:49:11.020458,False,False,True,True,2
